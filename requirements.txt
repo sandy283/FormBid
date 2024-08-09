@@ -1,3 +1,4 @@
-Pillow
-os
 streamlit
+Pillow
+numpy
+pandas
